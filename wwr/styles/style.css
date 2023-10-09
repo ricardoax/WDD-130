@@ -16,3 +16,23 @@ header {
 nav a:hover {
     background-color: black;
 }
+.book, .join {
+
+    background-color:rgba(20,30,13, .7); 
+}
+.book:hover, .join:hover{
+
+    background-color:rgba(20,30,13, .7);
+}
+#background{
+
+    background-color:rgba(20,30,13, .7);
+}
+.msg{
+
+    background-color:rgba(20,30,13, .7);
+}
+footer{
+
+    background-color:rgba(20,30,13, .7);
+}
