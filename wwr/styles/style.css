@@ -80,3 +80,27 @@ footer a:hover{
     background-color: black;
     color: #d9c2a3
 }
+.icon {
+    width: 80px;
+}
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+.book, .join{
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}
+footer a{
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}
+footer p {
+    font-size: 1.2em;
+}    
+footer p a:hover {
+    text-decoration: underline;
+}    
