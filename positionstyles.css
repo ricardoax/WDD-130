@@ -40,25 +40,29 @@
     width: 100px; 
     height: 100px; 
     background-color: red;
-    grid-template-columns: 50px; 
+    margin-top: -20;
+    margin-left: -10;
   } 
   .green2 { 
     width: 100px; 
     height: 100px; 
     background-color: green; 
-    grid-template-columns: 100px
+    margin-top: -15;
+    margin-left: -15;
   } 
   .yellow2 {
     width: 100px; 
     height: 100px; 
     background-color: gold; 
-    grid-template-columns: 150px
+    margin-top: -20;
+    margin-left: 
   } 
   .blue2 {
     width: 100px; 
     height: 100px; 
     background-color: blue; 
-    grid-template-columns: 200px
+    margin-top: -20;
+    margin-left: 
   } 
   /* Activity 3 styles */ 
   .content3 {
