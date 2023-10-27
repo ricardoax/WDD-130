@@ -34,10 +34,10 @@ nav a{
     grid-column: 2/3;
     grid-row: 1/2;
     margin-top: 100px;
-
 }
-#hero-msg h1,{
+#hero-msg h1{
     text-align: center;
+    color: #6f7364;
 }
 #hero-msg h4{
     color: white;
@@ -257,7 +257,7 @@ main section img {
     }
     .home-title {
         font-size: 25px;
-        color: #6f7364;
+        
     }
     .rivers-card, .camping-card, .rapids-card { 
         margin: 50px auto;
